@@ -19,7 +19,8 @@ OBJECTIVE:
 4.Perform the selected operation on the inputted numbers
 5.Display the result of the operation in a clear and concise format
 6.Handle invalid inputs and division by zero errors
-
+output :
+![IMG-20240804-WA0008](https://github.com/user-attachments/assets/34bc41a2-0de3-4208-8402-7ef3405c2b1b)
 
 
 
